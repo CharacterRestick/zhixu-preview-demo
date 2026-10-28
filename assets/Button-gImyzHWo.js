@@ -1,0 +1,1 @@
+import{j as n}from"./index-CT4Z8oj0.js";function o({variant:s="primary",size:r="md",icon:t,className:x="",children:a,...e}){return n.jsxs("button",{className:`zx-btn zx-btn-${s} zx-btn-${r} ${x}`,...e,children:[a,t&&n.jsx("span",{className:"zx-btn-icon",children:t})]})}export{o as B};
