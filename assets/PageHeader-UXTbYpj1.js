@@ -1,1 +1,0 @@
-import{j as e}from"./index-CT4Z8oj0.js";function i({eyebrow:a,title:r,description:x,actions:s}){return e.jsxs("header",{className:"zx-page-head",children:[e.jsxs("div",{children:[e.jsx("span",{className:"zx-eyebrow",children:a}),e.jsx("h1",{children:r}),e.jsx("p",{children:x})]}),s&&e.jsx("div",{className:"zx-page-actions",children:s})]})}export{i as P};
